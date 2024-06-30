@@ -18,14 +18,24 @@ Operational experience: HTML, Css, Google Docs, Google Sheets, Jira, GitHub, Git
 
 4.Code Example:
 
- <section class="bg-section">
-    <div class="background">
-      <img src="./main-bg.jpeg" />
-    </div>
-    <div class="container">
-      <div class="content-wrap">1212</div>
-    </div>
-  </section>
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.block {
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+}
+
+.button {
+  padding: 10px;
+  background-color: bisque;
+  border: none;
+}
 
 5.Education:
 
