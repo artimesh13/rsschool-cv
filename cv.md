@@ -39,8 +39,8 @@ Operational experience: HTML, Css, Google Docs, Google Sheets, Jira, GitHub, Git
 
 5.Education:
 
--Bachelor's degree at Belarusian State Academy of Communications Specialization: Engineer in Information and Communication Systems 2019 — 2022
--Secondary professional education at Belarusian State Academy of Communications Specialization: Telecommunications Technician 2015 — 2019
+- Bachelor's degree at Belarusian State Academy of Communications Specialization: Engineer in Information and Communication Systems 2019 — 2022
+- Secondary professional education at Belarusian State Academy of Communications Specialization: Telecommunications Technician 2015 — 2019
 - Online courses: Introduction to Generative AI (Coursera), From Likes to Leads: Interact with Customers Online (Coursera).
 
 6.Languages:
