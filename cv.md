@@ -35,7 +35,7 @@ Operational experience: HTML, Css, Google Docs, Google Sheets, Jira, GitHub, Git
 
 6.Languages:
 
-Languages: Russian – Native, English – Intermediate.
+Languages: Russian – Native, English – B1.
 
 
 
